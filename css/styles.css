@@ -24,3 +24,7 @@ li {
 div {
     color: darkolivegreen;
 }
+
+.container {
+    background-image: radial-gradient(lightblue, lightyellow);
+}
