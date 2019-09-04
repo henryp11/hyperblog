@@ -8,6 +8,7 @@ body {
 
 nav {
     border: 1px solid purple;
+    background: greenyellow;
 }
 
 .header ol {
