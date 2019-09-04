@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+nav {
+    border: 1px solid purple;
+}
+
+.header ol {
+    display: flex;
+    justify-content: center;
+}
+
+li {
+    list-style: none;
+    padding: 5px;
+    border: 1px dotted gray; 
+}
+
+div {
+    color: deeppink;
+}
