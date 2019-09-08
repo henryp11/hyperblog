@@ -40,3 +40,12 @@ div {
 .container {
     background-image: radial-gradient(lightblue, lightyellow);
 }
+
+.footer {
+    background: grey;
+}
+
+.footer div {
+    color: white;
+    padding: 1em;
+}
